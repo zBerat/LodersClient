@@ -7,7 +7,7 @@
       "yetki": true
     },
     "cosmetics": {
-      "wings": true,
+      "wings": false,
       "hat": false
     }
   },
