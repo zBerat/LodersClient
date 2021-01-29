@@ -4,10 +4,10 @@
     "skin": "https://i.imgur.com/hfs6Yhh.png",
     "cape": "https://i.imgur.com/lYjG2eN.png",
     "special": {
-      "yetki": false
+      "yetki": true
     },
     "cosmetics": {
-      "wings": false,
+      "wings": true,
       "hat": false
     }
   },
