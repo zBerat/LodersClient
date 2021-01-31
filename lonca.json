@@ -2,13 +2,13 @@
 
   "leyons": {
     "lonca": "Camelot Network",
-    "loncada:" true,
+    "loncada": true,
     "renk": "Mavi",
     "yetki": 3
   },
   "Betreus": {
     "lonca": "Loders Network",
-    "loncada:" true,
+    "loncada": true,
     "renk": "Kırmızı",
     "yetki": 1
   }
