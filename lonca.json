@@ -1,0 +1,14 @@
+{
+
+  "leyons": {
+    "lonca": "Camelot Network",
+    "renk": "Mavi",
+    "yetki": 3
+  },
+  "Betreus": {
+    "lonca": "Loders Network",
+    "renk": "Kırmızı",
+    "yetki": 1
+  }
+
+}
