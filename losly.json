@@ -1,0 +1,15 @@
+{
+
+  "Betreus": {
+    "skin": "https://i.imgur.com/OQD1Q2g.png",
+    "cape": "https://i.imgur.com/fJEH1lT.png",
+    "special": {
+      "yetki": true
+    },
+    "cosmetics": {
+      "wings": false,
+      "hat": false
+    }
+  }
+  
+}
