@@ -1,5 +1,10 @@
 {
 
+  "Bakım": {
+    "bakım": true,
+    "yazı": "Tahmini bakım süresi §a1 saat"
+  },
+  
   "Betreus": {
     "skin": "https://i.imgur.com/caLAKBQ.png",
     "cape": "https://i.imgur.com/ewBnisn.png",
