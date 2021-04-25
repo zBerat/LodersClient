@@ -3,24 +3,11 @@
   "leyons": {
     "skin": "https://i.imgur.com/caLAKBQ.png",
     "cape": "https://i.imgur.com/ewBnisn.png",
-    "special": {
-      "yetki": true
-    },
-    "cosmetics": {
-      "wings": false,
-      "hat": false
     }
   },
   "HypeClient": {
-    "skin": "https://i.imgur.com/w4a3hUj.png",
-    "cape": "https://mnbgdata.tk//user//uploads//ac616091933612c2c748828270407d4e//cape//ac616091933612c2c748828270407d4es.png",
-    "special": {
-      "yetki": true
-    },
-    "cosmetics": {
-      "wings": false,
-      "hat": false
-    }
+    "skin": "https://i.imgur.com/wOtdPfM.png",
+    "cape": "https://i.imgur.com/OOBd0uh.png",
   }
   
 }
