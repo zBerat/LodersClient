@@ -3,15 +3,19 @@
     "skin": "https://i.imgur.com/gKTGnLl.png",
     "cape": "https://i.imgur.com/OOBd0uh.png",
     "animasyon": true,
-    "tür": "Gece"
+    "tür": "Ghast"
   },
   "Bugra": {
     "skin": "https://i.imgur.com/wOtdPfM.png",
-    "cape": "https://i.imgur.com/OOBd0uh.png"
+    "cape": "https://i.imgur.com/OOBd0uh.png",
+    "animasyon": true,
+    "tür": "Alex"
   },
   "Red_Windows": {
     "skin": "https://i.imgur.com/2nRoDUL.png",
-    "cape": "https://i.imgur.com/KiJNTYi.png"
+    "cape": "https://i.imgur.com/KiJNTYi.png",
+    "animasyon": false,
+    "tür": "Gece"
   }
   
   
