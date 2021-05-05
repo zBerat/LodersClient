@@ -2,6 +2,7 @@
   "Betreus": {
     "skin": "https://i.imgur.com/gKTGnLl.png",
     "cape": "https://i.imgur.com/OOBd0uh.png",
+    "lonca": true,
     "animasyon": true,
     "tür": "Ghast"
   },
@@ -14,6 +15,7 @@
   "HypeClient": {
     "skin": "https://i.imgur.com/2nRoDUL.png",
     "cape": "https://i.imgur.com/KiJNTYi.png",
+    "lonca": false,
     "animasyon": true,
     "tür": "Gece"
   }
