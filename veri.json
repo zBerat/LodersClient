@@ -3,7 +3,8 @@
   "Betreus": {
     "skin": "https://i.imgur.com/gKTGnLl.png",
     "cape": "https://i.imgur.com/KiJNTYi.png",
-    "animasyon": true
+    "animasyon": true,
+    "tür": "Raufai"
   },
   "Bugra": {
     "skin": "https://i.imgur.com/wOtdPfM.png",
