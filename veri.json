@@ -3,9 +3,7 @@
   "Betreus": {
     "skin": "https://i.imgur.com/gKTGnLl.png",
     "cape": "https://i.imgur.com/KiJNTYi.png",
-    "kozmetik": {
-      "cape": true
-    }
+    "animasyon": true
   },
   "Bugra": {
     "skin": "https://i.imgur.com/wOtdPfM.png",
