@@ -2,8 +2,8 @@
 
   "Betreus": {
     "cosmetics": {
-      "animatedcape": true
-    }
+      "animatedcape": false
+    },
     "skin": "https://i.imgur.com/gKTGnLl.png",
     "cape": "https://i.imgur.com/KiJNTYi.png"
   },
