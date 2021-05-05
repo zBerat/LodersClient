@@ -4,7 +4,7 @@
     "skin": "https://i.imgur.com/gKTGnLl.png",
     "cape": "https://i.imgur.com/KiJNTYi.png",
     "kozmetik": {
-      "cape": false
+      "cape": true
     }
   },
   "Bugra": {
